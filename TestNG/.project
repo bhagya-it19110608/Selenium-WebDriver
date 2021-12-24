@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Java with Selenium</name>
+	<name>MyTestNGProject</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1640385530207</id>
+			<id>1640385767485</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
